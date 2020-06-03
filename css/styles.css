@@ -9,7 +9,7 @@ img {
 
 #more {display: none;}
 
-@media only screen and (max-width: 768px) {
+/*@media only screen and (max-width: 768px) {
 	.course-info {
     position: relative;
     margin: 0;
@@ -20,7 +20,7 @@ img {
 .course-image {
     display: none;
 }
-}
+}*/
 
 /*footer*/
 footer {
